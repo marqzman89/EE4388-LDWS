@@ -1,0 +1,1 @@
+mencoder -nosound -ovc lavc video1.mp4 -vf scale=640:480 -o output.mp4

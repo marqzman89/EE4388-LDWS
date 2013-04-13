@@ -1,0 +1,1 @@
+g++ -o cam3 cam3.cpp `pkg-config opencv --cflags --libs`
